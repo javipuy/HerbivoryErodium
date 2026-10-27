@@ -1,4 +1,4 @@
-# RNA-seq analysis of "Multilayer plastic responses to ungulate experimental herbivory: phenotypic, hormonal, transcriptomic and epigenetic changes in *Erodium cicutarium*"
+# Script repository for "Multilayer plastic responses to ungulate experimental herbivory: phenotypic, hormonal, transcriptomic and epigenetic changes in *Erodium cicutarium*"
 
 This repository contains the scripts needed to replicate the results 
 from the data analysis from the aforementioned paper.
